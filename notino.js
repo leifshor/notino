@@ -6,7 +6,7 @@ import Annotation from './NotionAnnotation';
 
 class Notino {
   static check() {
-    return 'v1.0.0';
+    return 'v1.0.1';
   }
 
   static icon = (icon) => {
